@@ -7,9 +7,9 @@ At first, I thought: “No problem, I’ve got this. Google + ChatGPT = problem 
 Fast forward a few hours… still no solution. Tried every fix I could find, installed, uninstalled, reinstalled — you name it. Nothing worked. 😩
 
 ### Finally (after what felt like a mini PhD in troubleshooting), I stumbled on a simple fix:
-👉 Go to your computer
-👉 Search for Import and Export Wizard
-👉 Open it and import the Excel file
+- 👉 Go to your computer
+- 👉 Search for Import and Export Wizard
+- 👉 Open it and import the Excel file
 
 And just like that — it worked. 🎉
 
